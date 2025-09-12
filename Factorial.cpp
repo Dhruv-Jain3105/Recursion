@@ -15,19 +15,19 @@ int fibo(int n){
 
 int main(){
     int n;
-    cout << "Type Number for Fibonacci: ";
+    cout << "Type Number for Factorial: ";
     cin >> n;
     int fibo1=fibo(n);
-    cout << "Fibonacci of " << n << " is : " << fibo1;
+    cout << "Factorial of " << n << " is : " << fibo1;
 }
 /*
 Output:-
-1)Type Number for Fibonacci: 5
+1)Type Number for Factorial: 5
 Fibonacci of 5 is : 120
-2)Type Number for Fibonacci: 4
+2)Type Number for Factorial: 4
 Fibonacci of 4 is : 24
-3)Type Number for Fibonacci: 1
+3)Type Number for Factorial: 1
 Fibonacci of 1 is : 1
-4)Type Number for Fibonacci: 0
+4)Type Number for Factorial: 0
 Fibonacci of 0 is : 1
 */
