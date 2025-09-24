@@ -1,6 +1,6 @@
 /*
-Name:- Rachit Deshpande
-PRN:- 24070123035
+Name:- Dhruv Jain
+PRN:- 24070123042
 Batch:- A2
 */
 #include <iostream>
@@ -14,11 +14,11 @@ void print_str(char *str){
 }
  
 int main(){
-    string s="Rachit";
+    string s="Dhruv";
     cout << "Reversed String: ";
     print_str(&s[0]);
 }
 /*
 Output-
-Reversed String: tihcaR
+Reversed String: vurhD
 */
